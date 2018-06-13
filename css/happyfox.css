@@ -355,7 +355,7 @@ GET STARTED
 	.happyfox__hero .container { width:90%;margin:0 auto; }
     .happyfox__workflow .responsive { width: 100%!important; }
      h1{font-size:24px!important;}
-    .happyfox__cta { padding-top:100px; }
+    .happyfox__cta,.happyfox__collaborate,.happyfox__collision,.happyfox__integrations,.happyfox__pricing { padding-top:50px; padding-bottom:50px; }
     .happyfox__cta h1 { padding-top: 15px!important; }
     .feature-content{width:70%!important; }
     .happyfox__features .container {width:90%!important; }
@@ -373,8 +373,9 @@ GET STARTED
     .happyfox__testimonial_secondary h1 { width: 100%; }
    .flex>:not(.flex){ display: block;padding-left:0; }
    .happyfox__workflow .responsive { width: 70%!important;}
-   .happyfox__get-started .signup { font-size:18px!important; line-height:30px; }
-
+   .happyfox__get-started .signup { font-size:18px!important; line-height:20px; padding-bottom:0;}
+   .happyfox__get-started h1 { line-height:30px;padding-bottom:10px; }
+   .mob { width:50%!important; }
 }
 @media screen and (max-width: 700px) {
 	.happyfox__workflow .responsive { width:60%; }
