@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/measure</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kayako-HappyFox-Alternative-Landing-Page---1360" transform="translate(-100.000000, -8628.000000)">
+            <g id="Section:-Why" transform="translate(100.000000, 8311.000000)">
+                <g id="CSAT-Scores" transform="translate(0.000000, 314.000000)">
+                    <g id="Icons/Gray-Box/measure" transform="translate(0.000000, 3.000000)">
+                        <g id="icon--measure">
+                            <rect id="Rectangle-path" fill="#EBEEF0" fill-rule="nonzero" x="0" y="0" width="62" height="62" rx="4"></rect>
+                            <g id="Group" transform="translate(11.514286, 15.057143)">
+                                <path d="M0,31.8857143 L38.9714286,31.8857143" id="Shape" stroke="#444444"></path>
+                                <polygon id="Shape" stroke="#444444" fill="#FFFFFF" fill-rule="nonzero" points="2.65714286 10.6285714 9.74285714 10.6285714 9.74285714 26.5714286 2.65714286 26.5714286"></polygon>
+                                <polygon id="Shape" stroke="#F37070" fill="#FFFFFF" fill-rule="nonzero" points="15.9428571 0 23.0285714 0 23.0285714 26.5714286 15.9428571 26.5714286"></polygon>
+                                <polygon id="Shape" stroke="#444444" fill="#FFFFFF" fill-rule="nonzero" points="29.2285714 17.7142857 36.3142857 17.7142857 36.3142857 26.5714286 29.2285714 26.5714286"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

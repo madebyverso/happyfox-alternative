@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/customer-journeys</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kayako-HappyFox-Alternative-Landing-Page---1360" transform="translate(-500.000000, -8468.000000)">
+            <g id="Section:-Why" transform="translate(100.000000, 8311.000000)">
+                <g id="Insights" transform="translate(400.000000, 154.000000)">
+                    <g id="Icons/Gray-Box/customer-journeys" transform="translate(0.000000, 3.000000)">
+                        <g id="icon--customer-journeys">
+                            <rect id="Rectangle-243-Copy-2" fill="#EBEEF0" fill-rule="nonzero" x="0" y="0" width="62" height="62" rx="4"></rect>
+                            <g id="Group-6" transform="translate(15.057143, 10.628571)">
+                                <path d="M8.65156966,20.7486772 L8.11084656,20.7486772 C3.63149636,20.7486772 0,24.3801736 0,28.8595238 C0,33.338874 3.63149636,36.9703703 8.11084656,36.9703703 L26.784656,36.9703703" id="Stroke-269" stroke="#444444"></path>
+                                <polyline id="Stroke-226" stroke="#444444" stroke-linecap="square" points="23.389418 33.1978836 27.1619048 36.9703703 23.389418 40.7428571"></polyline>
+                                <path d="M16.221585,4.52698413 L24.3324315,4.52698413 C28.8117817,4.52698413 32.4432781,8.15848049 32.4432781,12.6378307 C32.4432781,17.1171809 28.8117817,20.7486772 24.3324315,20.7486772 L23.7917084,20.7486772" id="Stroke-270" stroke="#444444"></path>
+                                <path d="M8.65146152,20.7486772 C8.65146152,16.5678062 12.0407139,13.1785538 16.221585,13.1785538 C20.402456,13.1785538 23.7917084,16.5678062 23.7917084,20.7486772 C23.7917084,24.9295483 20.402456,28.3188007 16.221585,28.3188007 C12.0407139,28.3188007 8.65146152,24.9295483 8.65146152,20.7486772 Z" id="Stroke-271" stroke="#F37070" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square"></path>
+                                <path d="M13.1784456,0.352098765 C15.2619362,0.352098765 16.9509324,2.04109499 16.9509324,4.12458553 C16.9509324,6.20807609 15.2619362,7.89707231 13.1784456,7.89707231 C11.0949551,7.89707231 9.40595889,6.20807609 9.40595889,4.12458553 C9.40595889,2.04109499 11.0949551,0.352098765 13.1784456,0.352098765 Z" id="Stroke-271" stroke="#444444" stroke-linecap="square"></path>
+                                <polyline id="Stroke-272" stroke="#444444" stroke-linecap="square" points="12.9772464 20.7486772 15.1401388 22.9115696 19.4659236 18.5857848"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

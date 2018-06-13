@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="788px" height="26px" viewBox="0 0 788 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Graphics/quote-line</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polyline id="path-1" points="0.5 0.5 390.97258 0.5 390.97258 23.7800007 419.583127 0.5 785.502548 0.5"></polyline>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kayako-HappyFox-Alternative-Landing-Page---1360" transform="translate(-286.000000, -9220.000000)">
+            <g id="Section:-Testimonial" transform="translate(0.000000, 8849.000000)">
+                <g id="Graphics/quote-line" transform="translate(287.000000, 372.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Line" stroke="#FFFFFF" stroke-width="1.5" opacity="0.200000003" stroke-linecap="square" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
